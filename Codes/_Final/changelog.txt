@@ -1,0 +1,24 @@
+log as of 4:38 am 13th december 2014
+
+working condition is Weather_station_Code_uno_ver3_1_2  
+
+Weather_station_Code_uno_ver3_1_1 is some what working
+
+
+Weather_station_Code_uno_ver3_1
+Weather_station_Code_uno_ver3_0 are  a bit un optimized version
+
+
+started working on Weather_station_Code_uno_ver4_0 for more optimizing
+
+log ended at 4:38 am 13th december 2014
+
+
+__________________________________________________________________________________________________________________________________________
+
+
+log as of 4:38 am 14th december 2014
+
+updated Weather_station_Code_uno_ver3_1_2 to  Weather_station_Code_uno_ver3_1_3  which change the issue of humidity sensors value
+
+log ended at 4:38 am 14th december 2014
